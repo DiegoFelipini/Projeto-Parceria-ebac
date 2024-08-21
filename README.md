@@ -23,4 +23,4 @@ Utilizar gráficos e outras ferramentas de visualização para facilitar a compr
 Base de dados utilizada:
 
 Desigualdade na Educação ao Redor do Mundo.
-Este projeto visa não apenas resolver um problema específico, mas também demonstrar o poder da análise de dados e do aprendizado de máquina na tomada de decisões informadas e na promoção de soluções eficazes para desafios reais. Se precisar de mais detalhes ou ajuda em alguma fase do projeto, estou à disposição!
+
